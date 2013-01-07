@@ -6,7 +6,7 @@ _benchmarkemail-nodejs_ exposes the Benchmark Email API (Version 1.0) features o
  
 Further information on the Benchmark Email API and its features is available at [http://www.benchmarkemail.com/API/Doc](http://www.benchmarkemail.com/API/Doc)
 
-## Installation
+## Setup
 
 Installing using npm (node package manager):
 
@@ -21,11 +21,11 @@ If you don't have npm installed or don't want to use it:
 
 Please note that parts of _benchmarkemail-nodejs_ depend on [request](http://github.com/mikeal/request) and [node-querystring](http://github.com/visionmedia/node-querystring). These libraries are needed to be installed for the API to work. If you are using npm all dependencies should be automagically resolved for you.
 
-## Usage
+## How to use
 
 Information on how to use the Benchmark Email APIs can be found below. Further information on the API methods available can be found at [http://www.benchmarkemail.com/API/Doc](http://www.benchmarkemail.com/API/Doc). 
 
-### Benchmark API
+### BenchmarkAPI
 
 _BenchmarkAPI_ takes one argument which is your API key. You can find your API Key in your Benchmark Email Account. 
  
